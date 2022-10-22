@@ -87,7 +87,7 @@ const Navbar = () => {
               height={32}
             />
             <p className="dark:text-white text-nft-black-1 font-semibold text-lg ml-1">
-              KryptoKet
+              CryptoKet
             </p>
           </div>
         </Link>
